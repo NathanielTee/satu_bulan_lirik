@@ -14,3 +14,26 @@ Untuk menginstal pustaka tersebut, gunakan perintah berikut:
 ```bash
 pip install playsound
 pip install pygame
+```
+
+## Cara Menjalankan
+Clone repositori ini ke komputer kamu:
+
+```bash
+git clone https://github.com/NathanielTee/satu_bulan_lirik.git
+```
+
+Masuk ke direktori proyek:
+
+```bash
+cd satu_bulan_lirik
+```
+
+Jalankan skrip Python:
+
+```bash
+python satu_bulan.py
+```
+
+###Peringatan
+Jika kamu menjalankan program ini menggunakan terminal Windows, mungkin akan ada sedikit delay saat menampilkan lirik. Untuk pengalaman yang lebih baik, Saya merekomendasikan untuk menggunakan Visual Studio Code (VS Code).
